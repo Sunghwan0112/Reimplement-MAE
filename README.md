@@ -4,9 +4,9 @@ This repository contains the code and the pre-trained models for the reimplement
 
 ## Authors
 
-Sunghwan Baek(sunghwab)
+Sunghwan Baek(sunghwab@andrew.cmu.edu)
 
-Shutian Chen (shutianc)
+Shutian Chen (shutianc@andrew.cmu.edu)
 
 ## Project Structure
 
